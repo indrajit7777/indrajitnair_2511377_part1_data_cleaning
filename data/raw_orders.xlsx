@@ -1,11 +1,1 @@
-order_id,order_date,ship_date,customer_name,segment,region,state,city,category,sub_category,quantity,unit_price,discount,sales,cost,profit,ship_mode,payment_status,order_status
-ORD-2024-10001,2024-01-15,2024-01-20,John Smith,Consumer,West,CA,Los Angeles,Technology,Laptop,1,1200.00,0.1,1080.00,720.00,360.00,Standard,Completed,Completed
-ORD-2024-10002,2024-01-16,2024-01-22,Mary Johnson,Corporate,East,NY,New York,Furniture,Chair,2,150.00,0.05,285.00,140.00,145.00,Express,Completed,Completed
-ORD-2024-10003,2024-01-17,2024-01-25,Bob Wilson,Consumer,South,TX,Houston,Office Supplies,Pen,50,2.00,0,100.00,30.00,70.00,Standard,Completed,Completed
-ORD-2024-10004,2024-01-18,2024-01-24,Alice Brown,Home Office,West,WA,Seattle,Technology,Monitor,1,400.00,0.15,340.00,200.00,140.00,Standard,Completed,Completed
-ORD-2025-10005,2025-01-19,2025-01-26,Charlie Davis,Consumer,North,IL,Chicago,Furniture,Table,1,500.00,0.1,450.00,250.00,200.00,Standard,Completed,Completed
-ORD-2024-10006,2024-01-20,2024-01-27,Diana Miller,Corporate,East,PA,Philadelphia,Technology,Keyboard,5,80.00,0.05,380.00,150.00,230.00,Standard,Completed,Completed
-ORD-2025-10007,2025-01-21,2025-01-28,Edward Taylor,Consumer,South,FL,Miami,Office Supplies,Notebook,10,5.00,0,50.00,15.00,35.00,Standard,Completed,Refunded
-ORD-2025-10008,2025-01-22,2025-01-29,Fiona Anderson,Home Office,West,CO,Denver,Furniture,Desk,1,800.00,0.2,640.00,400.00,240.00,Express,Completed,Completed
-ORD-2024-10009,2024-01-23,2024-01-30,George Thomas,Corporate,North,MN,Minneapolis,Technology,Mouse,3,30.00,0.1,81.00,30.00,51.00,Standard,Completed,Completed
-ORD-2025-10010,2025-01-24,2025-01-31,Hannah Jackson,Consumer,East,NJ,Newark,Office Supplies,Stapler,2,25.00,0.05,47.50,12.00,35.50,Standard,Completed,Completed
+
